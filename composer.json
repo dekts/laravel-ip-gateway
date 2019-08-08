@@ -36,6 +36,5 @@
         "LaravelIpGateway\\IpGatewayProvider"
       ]
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
